@@ -7,19 +7,19 @@
  * (iv) money saved
  */
 
-import java.util.Scanner;
+import java.util.Scanner; //import Scanner class from util package
 public class SalSave {
     public static void main(String [] args){
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); //sc is Scanner object
         System.out.print("Enter the Salary: ");
-        int sal = sc.nextInt();
-        double f = sal / 2;
+        int sal = sc.nextInt(); //Input Salary
+        double f = sal / 2; //Calculate food cost
         System.out.println("Money spent on food: ₹" +f);
-        double r = sal / 15;
+        double r = sal / 15; //Calculate rent cost
         System.out.println("Money spent on food: ₹" +r);
-        double m = sal / 10;
+        double m = sal / 10; //Calculate other cost
         System.out.println("Money spent on food: ₹" +m);
-        System.out.println("Savings: ₹"+ (sal-f-r-m));
+        System.out.println("Savings: ₹"+ (sal-f-r-m)); //Calculate savings and print
         sc.close();
     }
 }
