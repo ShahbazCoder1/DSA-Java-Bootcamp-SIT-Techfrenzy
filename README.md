@@ -1,1 +1,1 @@
-# Java-Practice
+# DSA-Java-Bootcamp-SIT-Techfrenzy
