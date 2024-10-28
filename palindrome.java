@@ -1,5 +1,6 @@
-import java.util.Scanner;
+// https://leetcode.com/problems/palindrome-number/description/
 
+import java.util.Scanner;
 public class palindrome {
 
     public boolean isPalindrome(int x) {
@@ -21,5 +22,6 @@ public class palindrome {
         int n = sc.nextInt();
         boolean y = ob.isPalindrome(n);
         System.out.println(y);
+        sc.close();
     }
 }

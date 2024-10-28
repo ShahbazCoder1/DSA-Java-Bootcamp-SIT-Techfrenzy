@@ -1,5 +1,6 @@
-import java.util.Scanner;
+//https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1
 
+import java.util.Scanner;
 public class lcm_gcd {
     public static int[] lcmAndGcd(int a, int b) {
         int gcd = findGcd(a, b);
@@ -32,5 +33,6 @@ public class lcm_gcd {
 
         System.out.println("LCM: " + result[0]);
         System.out.println("GCD: " + result[1]);
+        sc.close();
     }
 }
