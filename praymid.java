@@ -1,5 +1,6 @@
-import java.util.Scanner;
+// https://www.geeksforgeeks.org/problems/pattern/0
 
+import java.util.Scanner;
 public class praymid {
 
     public void printDiamond(int n) {
@@ -29,5 +30,6 @@ public class praymid {
         System.out.println("Enter the Diamond Praymid size: ");
         int n = sc.nextInt();
         obj.printDiamond(n);
+        sc.close();
     }
 }

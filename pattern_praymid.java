@@ -1,5 +1,6 @@
-import java.util.Scanner;
+// https://www.geeksforgeeks.org/problems/triangle-number/1
 
+import java.util.Scanner;
 public class pattern_praymid {
     public void printTriangle(int n) {
         int num = 1, i, j;
@@ -19,5 +20,6 @@ public class pattern_praymid {
         System.out.println("Enter the Inverted Praymid size: ");
         int n = sc.nextInt();
         obj.printTriangle(n);
+        sc.close();
     }
 }

@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/problems/triangle-pattern-1661493231/1
+
 import java.util.Scanner;
 public class Inverted_pattern {
 
@@ -19,5 +21,6 @@ public class Inverted_pattern {
         System.out.println("Enter the Inverted Praymid size: ");
         int n = sc.nextInt();
         obj.printTriangle(n);
+        sc.close();
     }
 }
