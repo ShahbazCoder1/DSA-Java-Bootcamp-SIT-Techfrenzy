@@ -28,11 +28,11 @@ This repository contains my solutions to the homework problems from the 5-day DS
   - Binary Search Implementation
   - Practice Problems
 
-### Day 4 (29th Oct)
-- Array Problems (Coming Soon)
+### Day 4 (2nd Nov)
+- (Coming Soon)
 
-### Day 5 (30th Oct)
-- Recursion (Coming Soon)
+### Day 5 (5th Nov)
+- (Coming Soon)
 
 ## 🔥 How to Use This Repository
 1. Each day's solutions are organized in separate folders
