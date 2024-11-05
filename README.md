@@ -58,8 +58,5 @@ This repository is continuously updated as the bootcamp progresses. Star ⭐ thi
 ## Connect With Me
 - LinkedIn: [Md Shahbaz Hashmi Ansari](https://www.linkedin.com/in/shahbaz-hashmi-ansari/)
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 Made with ❤️ during DSA Bootcamp
